@@ -1,0 +1,11 @@
+Package: nasdb
+Type: Package
+Title: Not A Soil DataBase
+Version: 1.0
+Date: 2017-05-16
+Author: William D. Pearse, 
+Maintainer: William D. Pearse <will.pearse@usu.edu>
+Description: Downloads soil data from published sources, and collates
+    them into an easy-to-use format for use within R
+License: GPL-3
+RoxygenNote: 6.0.1
